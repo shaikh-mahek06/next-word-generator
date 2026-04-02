@@ -1,4 +1,4 @@
- Next Word Generator (LSTM)
+# Next Word Generator (LSTM)
 
 A clean and minimal Next Word Prediction Web App built using:
 
